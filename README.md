@@ -11,6 +11,7 @@ And outputs:
 2. The cost per person. 
 ---
 ## REQUIREMENTS:
+
 Tip calculator has no dependencies.  It is fully contained within this repository
 ---
 ## USAGE:
