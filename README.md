@@ -13,6 +13,7 @@ And outputs:
 ## REQUIREMENTS:
 
 Tip calculator has no dependencies.  It is fully contained within this repository
+
 ---
 ## USAGE:
 Tip Calculator is written in Python3. From the main directory, run:
