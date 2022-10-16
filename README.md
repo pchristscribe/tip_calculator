@@ -17,6 +17,6 @@ Tip calculator has no dependencies.  It is fully contained within this repositor
 ---
 ## USAGE:
 Tip Calculator is written in Python3. From the main directory, run:
--python3 tip_calculator.py
+- python3 tip_calculator.py
  OR
--py tip_calculator.py
+- py tip_calculator.py
